@@ -1,4 +1,4 @@
-from src.Simulation_logic import Wolf, Sheep
+from Simulation_logic import Wolf, Sheep
 import tkinter as tk
 from tkinter import messagebox as msb
 from tkinter import filedialog
